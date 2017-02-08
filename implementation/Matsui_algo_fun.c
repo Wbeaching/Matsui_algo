@@ -175,7 +175,7 @@ UC Search( UC Key1[] )
 			{
 				Search( Key3 );
 				 C++;
-				 if(C == 2)
+				 if(C == N)
 				 	return 0;
 			}
 		}
